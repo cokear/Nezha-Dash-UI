@@ -34,7 +34,7 @@ window.EnableMusicPlayer = true; // 是否启用音乐播放器（true/false）
 window.MusicPlayerBallSize = 50; // 悬浮球尺寸（单位：像素）
 window.MusicPlayerAutoCollapse = 2600; // 自动收起面板的延迟时间（单位：毫秒）
 window.MusicPlayerTitle = "NeZha Music Player"; // 音乐播放器标题/默认艺术家名称（当文件名无"-"时使用）
-window.MusicPlayerAPIUrl = "https://music.588945.xyz/api/music/list"; // 音乐列表API地址
+window.MusicPlayerAPIUrl = "https://m.claudea.ggff.net/api/music/list"; // 音乐列表API地址
 window.MusicPlayerDefaultVolume = 0.2; // 默认音量（范围：0-1）
 
 // GitHub 链接配置
